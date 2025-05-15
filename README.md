@@ -8,6 +8,8 @@
 ДОБАВИТИ АПІ КЛЮЧ:
 зайти в RetrofitInstance
 в рядку .addHeader("x-rapidapi-key", "cdb8e61cc1mshe43a89e34c2c37cp18ce1ajsnbd9a2b2106f0") змінити на свій ключ
+
+
 всьо
 
 
